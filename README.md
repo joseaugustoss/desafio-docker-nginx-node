@@ -9,11 +9,11 @@ Certifique-se de ter o Docker e o Docker Compose instalados em sua máquina.
 Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/joseaugustoss/desafio-docker-nginx-node.git
 ```
 Navegue até o diretório do projeto:
 ```bash
-cd seu-repositorio
+cd desafio-docker-nginx-node
 ```
 Execute o comando Docker Compose:
 ```bash
