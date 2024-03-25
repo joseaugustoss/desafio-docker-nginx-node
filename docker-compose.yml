@@ -27,6 +27,8 @@ services:
     depends_on:
       database:
         condition: service_healthy
+    volumes:              
+      - ./app:/app 
     networks:
       - desafio-network
 
